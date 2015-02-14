@@ -1,0 +1,13 @@
+{
+  "name": "S3-and-Grunt-Example",
+  "version": "1.0.0",
+  "description": "A simple example for deploying a site to S3 using Grunt",
+  "author": "Lukas White",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-s3": "^0.9.4",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.7.0"
+  }
+}
